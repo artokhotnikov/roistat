@@ -1,0 +1,15 @@
+:root {
+  --font: sans-serif;
+
+  --white: #fff;
+  --black: #2d3744;
+  --gray: #58687c;
+  --gray-light: #8696a9;
+  --bg: #d8f2ff;
+  --overlay: rgba(0, 0, 0, 0.8);
+  --red: #bf3227;
+
+  --rounded: 10px;
+
+  --transition-time: 0.3s;
+}
